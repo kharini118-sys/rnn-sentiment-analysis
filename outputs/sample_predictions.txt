@@ -1,0 +1,1 @@
+Run src/predict.py to generate predictions for new sentences.
